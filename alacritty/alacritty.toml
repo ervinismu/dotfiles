@@ -8,7 +8,5 @@ family = "JetBrainsMono Nerd Font"
 opacity = 0.9
 padding.x = 10
 padding.y = 10
-startup_mode = "fullscreen"
-
-[cursor]
-style.shape = "Block"
+startup_mode = "Maximized"
+decorations = "Full"
